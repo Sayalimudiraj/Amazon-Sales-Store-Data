@@ -32,7 +32,6 @@ Amazon store sales dataset sourced from Kaggle / public dataset.
 👥 Customer Segments:
 
 Corporate (33.33%) is the largest contributor.
-
 Home Office (27.08%) is the smallest.
 
 💳 Payment Modes: COD dominates at 46.88%, while online contributes 28.13%.
@@ -42,13 +41,10 @@ Home Office (27.08%) is the smallest.
 📊 Profitable Subcategories:
 
 Copiers (8.4K profit)
-
 Phones (1.4K profit)
-
 Binders (1.3K profit)
 
 🌍 Regional Performance: Sales distributed across U.S. states with filterable regional insights.
-
 📆 Trends: Seasonal spikes observed in March and July, while other months show stable but lower performance.
 
 🔁 Return Status: Very low return rate (2.08%) indicates strong customer satisfaction.
